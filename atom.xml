@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-12-26T15:41:01.600Z</updated>
+  <updated>2024-01-10T23:03:01.698Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>随便学点 💫 一个关于语言学习方法的视频</title>
+    <title>记流水账 | A Trip to Miami</title>
+    <link href="http://example.com/2024/01/10/aTripToMiami/"/>
+    <id>http://example.com/2024/01/10/aTripToMiami/</id>
+    <published>2024-01-10T05:00:00.000Z</published>
+    <updated>2024-01-10T23:03:01.698Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Day-0-Richmond&quot;&gt;&lt;a href=&quot;#Day-0-Richmond&quot; class=&quot;headerlink&quot; title=&quot;Day 0: Richmond&quot;&gt;&lt;/a&gt;Day 0: Richmond&lt;/h2&gt;&lt;p&gt;之所以叫 Day 0</summary>
+        
+      
+    
+    
+    
+    <category term="记流水账" scheme="http://example.com/categories/%E8%AE%B0%E6%B5%81%E6%B0%B4%E8%B4%A6/"/>
+    
+    
+    <category term="America" scheme="http://example.com/tags/America/"/>
+    
+    <category term="猫の自驾" scheme="http://example.com/tags/%E7%8C%AB%E3%81%AE%E8%87%AA%E9%A9%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>随便学点 | 一个关于语言学习方法的视频</title>
     <link href="http://example.com/2023/12/26/%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E7%9A%84%E8%A7%86%E9%A2%91/"/>
     <id>http://example.com/2023/12/26/%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E7%9A%84%E8%A7%86%E9%A2%91/</id>
     <published>2023-12-26T05:00:00.000Z</published>
-    <updated>2023-12-26T15:41:01.600Z</updated>
+    <updated>2024-01-04T20:39:57.828Z</updated>
     
     
       
@@ -43,27 +70,24 @@
   </entry>
   
   <entry>
-    <title>阅读札记 💫 晨间日记的奇迹</title>
+    <title>写小本本 | 晨间日记的奇迹-佐藤傳</title>
     <link href="http://example.com/2023/12/20/%E6%99%A8%E9%97%B4%E6%97%A5%E8%AE%B0%E7%9A%84%E5%A5%87%E8%BF%B9/"/>
     <id>http://example.com/2023/12/20/%E6%99%A8%E9%97%B4%E6%97%A5%E8%AE%B0%E7%9A%84%E5%A5%87%E8%BF%B9/</id>
     <published>2023-12-20T05:00:00.000Z</published>
-    <updated>2023-12-26T15:43:11.520Z</updated>
+    <updated>2024-01-04T20:41:14.930Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Author: 佐藤傳&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;早上写日记的好处&quot;&gt;&lt;a href=&quot;#早上写日记的好处&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;早上写日记的好处&quot;&gt;&lt;a href=&quot;#早上写日记的好处&quot; class=&quot;headerlink&quot;</summary>
         
       
     
     
     
-    <category term="阅读札记" scheme="http://example.com/categories/%E9%98%85%E8%AF%BB%E6%9C%AD%E8%AE%B0/"/>
+    <category term="写小本本" scheme="http://example.com/categories/%E5%86%99%E5%B0%8F%E6%9C%AC%E6%9C%AC/"/>
     
     
     <category term="当一个ADHDer试图自救" scheme="http://example.com/tags/%E5%BD%93%E4%B8%80%E4%B8%AAADHDer%E8%AF%95%E5%9B%BE%E8%87%AA%E6%95%91/"/>

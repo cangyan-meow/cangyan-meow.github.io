@@ -1073,7 +1073,7 @@ html, body {
   letter-spacing: 0.01rem;
   background-color: var(--bg-body);
   transition: color 400ms ease-in-out 0s, background-color 400ms ease-in-out 0s;
-  font-family: Consolas, "Liberation Mono", Menlo, Monaco, "Source Han Sans CN", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif
+  font-family: "Ink Free", "Yozai", sans-serif
 }
 
 body.hidden {
@@ -2147,41 +2147,41 @@ a:hover {
   margin-left: 30px;
 }
 .v[data-class="v"] .vwrap .vheader .vinput:focus {
-  border-bottom-color: #fff7e6 !important;
+  border-bottom-color: #e07474 !important;
 }
 .v[data-class="v"] .vbtn:active,
 .v[data-class="v"] .vbtn:hover {
-  border-color: #fff7e6 !important;
+  border-color: #e07474 !important;
 }
 .v[data-class="v"] .vcards .vcard .vh .vmeta .vat {
-  color: #fff7e6 !important;
+  color: #e07474 !important;
 }
 .v[data-class="v"] a {
-  color: #fff7e6 !important;
+  color: #e07474 !important;
 }
 .fancybox-progress {
-  background: #fff7e6 !important;
+  background: #e07474 !important;
 }
 .markdown-body code {
-  color: #fff7e6;
+  color: #e07474;
 }
 .markdown-body a:hover {
-  border-bottom: 2px solid #fff7e6;
+  border-bottom: 2px solid #e07474;
 }
 .markdown-body blockquote {
-  border-color: #fff7e6;
+  border-color: #e07474;
 }
 .toc-link:hover::after {
-  background-color: #fff7e6;
+  background-color: #e07474;
 }
 .toc-link.active::after {
-  background-color: #fff7e6;
+  background-color: #e07474;
 }
 .navbar ul li a:hover::after {
-  background-color: #fff7e6;
+  background-color: #e07474;
 }
 .navbar ul li.active a::after {
-  background-color: #fff7e6;
+  background-color: #e07474;
 }
 .markdown-body h1 .headerlink::before,
 .markdown-body h2 .headerlink::before,
@@ -2189,5 +2189,5 @@ a:hover {
 .markdown-body h4 .headerlink::before,
 .markdown-body h5 .headerlink::before,
 .markdown-body h6 .headerlink::before {
-  color: #fff7e6;
+  color: #e07474;
 }

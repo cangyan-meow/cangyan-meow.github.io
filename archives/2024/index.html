@@ -11,9 +11,9 @@
   
   <title>
     
-      Category 
+      archive_a: 2024
       
-       : 阅读札记
+      
       |
     
      cangyan-meow
@@ -111,29 +111,56 @@
 
 
       <div class="flex-container">
-        <!-- 标签详情页，展示某个标签下的文章列表，url形式：https://yoursite/tags/某个标签/ -->
+        <!-- 归档页，展示本站所有文章，按照年份降序归类，url形式：https://yoursite/archives/ -->
 
-<div class="container category-details">
-  <div class="content-title">
-    <h2>
-      <span>阅读札记</span>
-    </h2>
-  </div>
-  
-    <div class="post-list">
-      <div class="post-item" title="阅读札记 💫 晨间日记的奇迹">
-        <span class="time-m-d">2023-12-20</span>
-        <a href="/2023/12/20/%E6%99%A8%E9%97%B4%E6%97%A5%E8%AE%B0%E7%9A%84%E5%A5%87%E8%BF%B9/">
-          <span>阅读札记 💫 晨间日记的奇迹</span>
-        </a>
+<!-- last: 按年份把文章分组，当前遍历到的年份 -->
+<!-- now: 当前遍历到的文章的发布年份 -->
+
+<div class="container archives">
+  <div class="post-list">
+    
+        <!-- 后续文章的发布年份呈现 -->
+        <div class="content-title">
+          <h2>
+            <span>2024</span>
+          </h2>
+        </div>
+      
+      <div class="post-item" title="记流水账 | A Trip to Miami">
+        <div class="time-m-d">01-10</div>
+        <div class="title">
+          <a href="/2024/01/10/aTripToMiami/">
+            <span>记流水账 | A Trip to Miami</span>
+          </a>
+        </div>
       </div>
-    </div>
-  
-  <nav class="post-navigation">
     
-    <span class="page-num">1 / 1</span>
+        <!-- 后续文章的发布年份呈现 -->
+        <div class="content-title">
+          <h2>
+            <span>2023</span>
+          </h2>
+        </div>
+      
+      <div class="post-item" title="随便学点 | 一个关于语言学习方法的视频">
+        <div class="time-m-d">12-26</div>
+        <div class="title">
+          <a href="/2023/12/26/%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E7%9A%84%E8%A7%86%E9%A2%91/">
+            <span>随便学点 | 一个关于语言学习方法的视频</span>
+          </a>
+        </div>
+      </div>
     
-  </nav>
+      <div class="post-item" title="写小本本 | 晨间日记的奇迹-佐藤傳">
+        <div class="time-m-d">12-20</div>
+        <div class="title">
+          <a href="/2023/12/20/%E6%99%A8%E9%97%B4%E6%97%A5%E8%AE%B0%E7%9A%84%E5%A5%87%E8%BF%B9/">
+            <span>写小本本 | 晨间日记的奇迹-佐藤傳</span>
+          </a>
+        </div>
+      </div>
+    
+  </div>
 </div>
 
         
@@ -162,7 +189,7 @@
     
     <div class="footer-more">
       
-        © From 2023 to 2023
+        © From 2023 to 2024
         
     </div>
   
