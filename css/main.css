@@ -1068,12 +1068,17 @@ figure .pin-copy {
   padding: 0;
 }
 
+@font-face{
+  font-family: 'LXGW';
+  src: url('../fonts/LXGWFasmartGothic.ttf');
+}
+
 html, body {
   font-size: 10px;
   letter-spacing: 0.01rem;
   background-color: var(--bg-body);
   transition: color 400ms ease-in-out 0s, background-color 400ms ease-in-out 0s;
-  font-family: "Comic Sans MS", "LXGW Fasmart Gothic", sans-serif
+  font-family: 'LXGW', sans-serif
 }
 
 body.hidden {
