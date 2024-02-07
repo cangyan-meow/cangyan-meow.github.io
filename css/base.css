@@ -5,17 +5,17 @@
 
 @font-face{
   font-family: 'Ubuntu';
-  src: url('../fonts/Ubuntu-Regular.ttf');
+  src: url('../fonts/Ubuntu-Regular.ttf') format("truetype");
 }
 
 @font-face{
   font-family: 'Comic';
-  src: url('../fonts/ComicSansMS3.ttf');
+  src: url('../fonts/ComicSansMS3.ttf') format("truetype");
 }
 
 @font-face{
   font-family: 'Xiaolai';
-  src: url('../fonts/XiaolaiSC-Regular.ttf');
+  src: url('../fonts/XiaolaiSC-Regular.ttf') format("truetype");
 }
 
 html, body {

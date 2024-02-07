@@ -1069,8 +1069,18 @@ figure .pin-copy {
 }
 
 @font-face{
-  font-family: 'LXGW';
-  src: url('../fonts/LXGWFasmartGothic.ttf');
+  font-family: 'Ubuntu';
+  src: url('../source/fonts/Ubuntu-Regular.ttf');
+}
+
+@font-face{
+  font-family: 'Comic';
+  src: url('../source/fonts/ComicSansMS3.ttf');
+}
+
+@font-face{
+  font-family: 'Xiaolai';
+  src: url('../source/fonts/XiaolaiSC-Regular.ttf');
 }
 
 html, body {
@@ -1078,7 +1088,7 @@ html, body {
   letter-spacing: 0.01rem;
   background-color: var(--bg-body);
   transition: color 400ms ease-in-out 0s, background-color 400ms ease-in-out 0s;
-  font-family: 'LXGW', sans-serif
+  font-family: 'Comic', 'Xiaolai', sans-serif
 }
 
 body.hidden {
@@ -1149,6 +1159,7 @@ a:hover {
 
 .header {
   padding: 50px 0;
+  font-family: 'Ubuntu', sans-serif
 }
 
 .container {
