@@ -3,27 +3,11 @@
   padding: 0;
 }
 
-@font-face{
-  font-family: 'Ubuntu';
-  src: url('../fonts/Ubuntu-Regular.ttf') format("truetype");
-}
-
-@font-face{
-  font-family: 'Comic';
-  src: url('../fonts/ComicSansMS3.ttf') format("truetype");
-}
-
-@font-face{
-  font-family: 'Xiaolai';
-  src: url('../fonts/XiaolaiSC-Regular.ttf') format("truetype");
-}
-
 html, body {
   font-size: 10px;
   letter-spacing: 0.01rem;
   background-color: var(--bg-body);
   transition: color 400ms ease-in-out 0s, background-color 400ms ease-in-out 0s;
-  font-family: 'Comic', 'Xiaolai', sans-serif
 }
 
 body.hidden {
@@ -55,10 +39,10 @@ body.hidden {
 
 /*控制整个滚动条*/
 ::-webkit-scrollbar {
-    background-color: transparent;
-    width: 6px;
-    height: 6px;
-    background-clip: padding-box;
+  background-color: transparent;
+  width: 6px;
+  height: 6px;
+  background-clip: padding-box;
 }
 
 /*滚动条中滑块部分*/
@@ -94,7 +78,6 @@ a:hover {
 
 .header {
   padding: 50px 0;
-  font-family: 'Ubuntu', sans-serif
 }
 
 .container {
